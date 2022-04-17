@@ -1,0 +1,2 @@
+- read about CSS inheritance
+- read about safe web fonts: http://web.mit.edu/jmorzins/www/fonts.html
