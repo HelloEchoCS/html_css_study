@@ -1,2 +1,4 @@
 - read about CSS inheritance
-- read about safe web fonts: http://web.mit.edu/jmorzins/www/fonts.html
+- read about [safe web fonts](http://web.mit.edu/jmorzins/www/fonts.html)
+- [css diner](https://flukeout.github.io/)
+- review each lesson's summary before moving on to the Ruby stuff
